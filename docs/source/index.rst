@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-This is for testing Sphinx doc : Doing a demo!
-==============================================
+This is for testing Sphinx doc : Doing a demo - 09142020
+========================================================
 
 .. toctree::
    :maxdepth: 2
